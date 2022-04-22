@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quoteHub/static/css/main.2d22cfb3.css",
+    "main.js": "/quoteHub/static/js/main.3290f872.js",
+    "static/media/interrogation.png": "/quoteHub/static/media/interrogation.bc59092795aec3d10c24.png",
+    "index.html": "/quoteHub/index.html",
+    "main.2d22cfb3.css.map": "/quoteHub/static/css/main.2d22cfb3.css.map",
+    "main.3290f872.js.map": "/quoteHub/static/js/main.3290f872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d22cfb3.css",
+    "static/js/main.3290f872.js"
+  ]
+}
