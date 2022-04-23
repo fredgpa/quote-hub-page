@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quote-hub-page/static/css/main.45cea42b.css",
-    "main.js": "/quote-hub-page/static/js/main.b9575477.js",
+    "main.js": "/quote-hub-page/static/js/main.2d29ca36.js",
     "static/media/interrogation.png": "/quote-hub-page/static/media/interrogation.bc59092795aec3d10c24.png",
     "index.html": "/quote-hub-page/index.html",
     "main.45cea42b.css.map": "/quote-hub-page/static/css/main.45cea42b.css.map",
-    "main.b9575477.js.map": "/quote-hub-page/static/js/main.b9575477.js.map"
+    "main.2d29ca36.js.map": "/quote-hub-page/static/js/main.2d29ca36.js.map"
   },
   "entrypoints": [
     "static/css/main.45cea42b.css",
-    "static/js/main.b9575477.js"
+    "static/js/main.2d29ca36.js"
   ]
 }
